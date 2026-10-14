@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="crispy chicken burger">
+  <rect width="800" height="600" fill="#f5d2b5"/>
+  <circle cx="400" cy="300" r="215" fill="#ffffff" opacity="0.65"/>
+  <circle cx="400" cy="300" r="215" fill="none" stroke="#c9632b" stroke-width="10" stroke-dasharray="4 22" stroke-linecap="round"/>
+  <text x="400" y="300" font-size="230" text-anchor="middle" dominant-baseline="central">🍗</text>
+</svg>
